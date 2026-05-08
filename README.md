@@ -57,7 +57,7 @@ const sarthak = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,postgres,mongodb,tailwind,docker,aws,git,linux,vscode&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,fastapi,postgres,mongodb,tailwind,docker,git,linux,vscode,antigravity&perline=8" alt="Tech stack" />
 
 </div>
 
