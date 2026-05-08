@@ -8,7 +8,7 @@
 <!-- Terminal-style header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=760&height=70&lines=%24+whoami+-%3E+sarthak;%24+./build.sh+--full-stack+--ai;%24+./ship.sh+--always+%E2%9C%A8" alt="terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=760&height=70&lines=%24+whoami+-%3E+sarthaksri;%24+./build.sh+--full-stack+--genai;%24+./ship.sh+--always+%E2%9C%A8" alt="terminal typing" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
   > Software Engineer
   > Full-Stack · Generative AI
-  > Currently building things that don't exist yet
+  > Crafting software that quietly makes life easier
 
 ┌─[sarthak@github]─[~]
 └─$ ps aux | grep hobbies
@@ -47,7 +47,7 @@
 const sarthak = {
   role: "Software Engineer",
   focus: ["Full-Stack", "Generative AI"],
-  currentlyBuilding: "things that don't exist yet",
+  currentlyBuilding: "software that makes life a little easier",
   hobbies: ["☕ coffee", "🎮 gaming", "📦 side projects"],
   funFact: "I read changelogs for fun",
 };
