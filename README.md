@@ -61,19 +61,6 @@ const sarthak = {
 
 </div>
 
-### GitHub in numbers
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarthaksri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sarthaksri&theme=tokyonight&hide_border=true&hide_longest_streak=true&hide_current_streak=true" alt="GitHub streak" />
-
-</div>
-
 ### Contribution snake
 
 <div align="center">
